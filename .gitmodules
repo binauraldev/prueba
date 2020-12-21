@@ -1,0 +1,4 @@
+[submodule "binterprise_12"]
+	path = binterprise_12
+	url = git@dev.binaural.com.ve:binaural/ecosistema/backend/odoo/binterprise_12.git
+	branch = test

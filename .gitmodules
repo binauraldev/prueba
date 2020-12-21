@@ -1,0 +1,4 @@
+[submodule "integra"]
+	path = integra
+	url = git@dev.binaural.com.ve:binaural/ecosistema/backend/odoo/integra/modulos/modulos-integra.git
+	branch = github
